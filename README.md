@@ -2,4 +2,4 @@
 
 Разбор декодирования эффекта Пинг Понг
 
-[![Demo](https://github.com/olegsm/PingPong/blob/master/demo/friends.mp4)]
+[![Demo](https://gifs.com/gif/P7rNz4?muted=false)]
