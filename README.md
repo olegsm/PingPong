@@ -2,4 +2,4 @@
 
 Разбор декодирования эффекта Пинг Понг
 
-[![Demo](https://gifs.com/gif/P7rNz4?muted=false)]
+[![Demo](https://j.gifs.com/P7rNz4.gif)](https://j.gifs.com/P7rNz4.gif)
